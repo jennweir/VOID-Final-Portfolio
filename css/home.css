@@ -1,0 +1,115 @@
+/* home css styles */
+.font {
+  color: white;
+  font-family: sans-serif;
+  font-weight: 800;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.margin {
+  margin-left: 3rem;
+}
+
+.info-spacing {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#hi-im{
+  font-size: 6rem;
+}
+
+.font-location{
+  float:right;
+  margin-top: 17rem;
+  margin-right: 3rem;
+}
+
+#namefont {
+  color: white; 
+  font-family: sans-serif;
+  font-weight: 800;
+  font-size: 3rem;
+  text-align: left;
+}
+  
+.box-image{
+  width: 80rem; /* width of container */
+  height: 55rem; /* height of container */
+  border-radius: 30%;
+  object-fit: cover;
+  overflow: hidden;
+  margin-left: 3rem;
+}
+
+.section-format{
+  font-size: 4rem;
+  color: white;
+  font-family: sans-serif;
+  margin: 3rem;
+  font-weight: 800;
+  padding: 2rem;
+}
+  
+.page-font {
+  color: white;
+  font-family: sans-serif;
+  font-weight: 800;
+  font-size: 2.5rem;
+}
+
+.descr {
+  color: white;
+  font-family: sans-serif;
+  font-weight: 800;
+  font-size: 1.75rem;
+  display: block;
+}
+
+.location-image {
+  max-width: 20%;
+  height: auto;
+  box-align: center;
+}
+
+.experience-image {
+  max-width: 45%;
+  height: auto;
+}
+
+#spacing {
+  margin-bottom: 2rem;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center; 
+}
+
+.flex-projects {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.survey-form {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  height: 75%;
+  border: 0;
+}
+
+.social-heading{
+  font-size: 4rem;
+  color: white;
+  font-family: sans-serif;
+  font-weight: 800;
+  margin: 3rem;
+}
+
+.space-bottom {
+  margin-bottom: 8rem;
+}
